@@ -1,0 +1,52 @@
+true false [let] ne ( ) * / + - ' : = <= >= < > <> or input output % ! $ { } ; , loop do while for then else end_else
+R C N I F L T Q E S Y W B A D X Z P M G H J J
+F I
+F N
+F L
+F ne F
+F (E)
+L false
+L true
+T F
+T F*T
+T F/T
+T F and T
+Q T
+Q T+Q
+Q T-Q
+Q T or Q
+E Q
+E Q=Q
+E Q>Q
+E Q<Q
+E Q>=Q
+E Q<=Q
+E Q<>Q
+M ~
+M E
+Y S
+Y Y;S
+S [let]A=E;
+S if E then S G
+G {else S} end_else
+G ~
+S for (U) S 
+U M ; M ; M;
+S do while E S, loop
+S input(I W)
+W ~
+W I W
+S output(I W)
+B {Y}
+A I
+A A,I
+D I J
+J :H
+H %
+H !
+H $
+X D
+X X;D
+Z X;
+Z ~
+P {Z}

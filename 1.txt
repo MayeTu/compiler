@@ -1,0 +1,14 @@
+and
+%
+!
+$
+[let]
+if
+then
+else
+end_else
+for
+do while
+loop
+input
+output
